@@ -1,0 +1,2 @@
+config:
+  info: "springcloud-config/application-sit.yml,version=1.0"
